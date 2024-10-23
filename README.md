@@ -1,8 +1,8 @@
 # FULL_ADDER_SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
-### NAME: VINISHRAJ R
-### REG NO :212223230243
+### NAME: kathiravan
+### REG NO :212222230063
 
 **AIM:**
 
